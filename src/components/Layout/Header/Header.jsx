@@ -34,7 +34,7 @@ const logoutHandler = ()=>{
    <DrawerOverlay backdropFilter={"blur(2px)"}/>
 <DrawerContent>
     
-<DrawerHeader borderBottomWidth={"1px"} >ADMIN USER</DrawerHeader>
+<DrawerHeader borderBottomWidth={"1px"} >USER PROFILE</DrawerHeader>
 
 <DrawerBody>
 <VStack spacing={"4"} alignItems="flex-start">
